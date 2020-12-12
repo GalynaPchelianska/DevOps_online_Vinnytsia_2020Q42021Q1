@@ -1,1 +1,9 @@
-i
+  .line {
+    border: 5px solid #ffa02d;
+    -moz-border-top-colors: #000 #fc0 #000 #fc0 #000;
+    -moz-border-left-colors: #000 #fc0 #000 #fc0 #000;
+    -moz-border-right-colors: #000 #fc0 #000 #fc0 #000;
+    -moz-border-bottom-colors: #000 #fc0 #000 #fc0 #000;
+    background: #ffe;
+    padding: 10px;
+   }
