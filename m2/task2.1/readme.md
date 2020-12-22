@@ -14,4 +14,7 @@ Part 2.
 ![img](/../master/images/task_2_1_2_3.png?raw=true "screenshot")
 ![img](/../master/images/task_2_1_2_4.png?raw=true "screenshot")
 ![img](/../master/images/task_2_1_3_1.png?raw=true "screenshot")
+![img](/../master/images/task_2_1_3_2.png?raw=true "screenshot")
+![img](/../master/images/task_2_1_3_3.png?raw=true "screenshot")
+![img](/../master/images/task_2_1_3_4.png?raw=true "screenshot")
  
