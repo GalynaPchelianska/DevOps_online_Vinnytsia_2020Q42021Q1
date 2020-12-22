@@ -9,9 +9,9 @@ VitualBox, VMwere runs Vms on workstation, for development or testing purposes.
 VMwere, Citrix XenServer, Hyper V are the hypovisors of 1-st types. RHEV, KVM, VirtualBox are the hyporvisors of 2-nd types.
 
 Part 2.
-![img](/../master/project/DevOps_online_Vinnytsia_2020Q42021Q1/images/task2_1_2_1.png?raw=true "screenshot")
-![img](/../master/project/DevOps_online_Vinnytsia_2020Q42021Q1/images/task2_1_2_2.png?raw=true "screenshot")
-![img](/../master/project/DevOps_online_Vinnytsia_2020Q42021Q1/images/task2_1_2_3.png?raw=true "screenshot")
-![img](/../master/project/DevOps_online_Vinnytsia_2020Q42021Q1/images/task2_1_2_4.png?raw=true "screenshot")
-![img](/../master/project/DevOps_online_Vinnytsia_2020Q42021Q1/images/task2_1_3_1.png?raw=true "screenshot")
+![img](/../master/project/DevOps_online_Vinnytsia_2020Q42021Q1/images/task_2_1_2_1.png?raw=true "screenshot")
+![img](/../master/project/DevOps_online_Vinnytsia_2020Q42021Q1/images/task_2_1_2_2.png?raw=true "screenshot")
+![img](/../master/project/DevOps_online_Vinnytsia_2020Q42021Q1/images/task_2_1_2_3.png?raw=true "screenshot")
+![img](/../master/project/DevOps_online_Vinnytsia_2020Q42021Q1/images/task_2_1_2_4.png?raw=true "screenshot")
+![img](/../master/project/DevOps_online_Vinnytsia_2020Q42021Q1/images/task_2_1_3_1.png?raw=true "screenshot")
  
