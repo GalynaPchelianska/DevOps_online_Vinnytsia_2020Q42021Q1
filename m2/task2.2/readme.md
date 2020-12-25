@@ -7,6 +7,8 @@ Task 2.2.
 ![img](/../master/images/task_2_1_3_3.png?raw=true "screenshot")
 ![img](/../master/images/task_2_2_4.png?raw=true "screenshot")
 ![img](/../master/images/task_2_2_5.png?raw=true "screenshot")
+![img](/../master/images/task_2_2_6.png?raw=true "screenshot")
+![img](/../master/images/task_2_2_7.png?raw=true "screenshot")
 
 List of AWS services:
 
