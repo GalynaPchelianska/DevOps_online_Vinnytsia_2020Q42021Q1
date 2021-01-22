@@ -113,13 +113,11 @@ The files are protected because, again, no one can delete anyone else’s files.
 
 ![img](/../master/images/task_5_2_9.png?raw=true "screenshot")
 
-![img](/../master/images/task_5_2_10.png?raw=true "screenshot").
-
 ![img](/../master/images/task_5_2_12.png?raw=true "screenshot").
 
 17. File attribute should be present with command 'lsattr'. 
 
-![img](/../master/images/task_5_2_11.png?raw=true "screenshot").
+![img](/../master/images/task_5_2_10.png?raw=true "screenshot").
 
 
 
