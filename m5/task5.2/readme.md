@@ -51,9 +51,10 @@ Another way to lock a user account is to the the 'chage' command that helps mana
 10. We can to remove a user's password with command 'sudo passwd -d user_name'.
 We can to provide user with a password-free login with command 'usermod -s /usr/sbin/nologin username'.
 
-11. We can to extende format of information about the directory with commands 'ls -l' and 'stat'.
+11. We can to extende format of information about the directory with commands 'ls -l' or 'ls -la' and 'stat'.
 
 ![img](/../master/images/task_5_2_6.png?raw=true "screenshot")
+
 With command 'ls' we receive next information:
 The first character shows the file type:  
 - - Regular file.
