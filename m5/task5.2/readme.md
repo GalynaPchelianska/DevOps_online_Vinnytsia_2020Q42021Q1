@@ -90,8 +90,8 @@ t - sticky bit.
 The term mask references the grouping of the permission bits, each of which defines how its corresponding permission is set for newly created files. 
 The bits in the mask may be changed by invoking the umask command.
 When using the term Umask, we are referring to one of the following two meanings:
-1. The user file creation mode mask that is used to configure the default permissions for newly created files and directories
-2. The command “umask” which is used to set the umask value.
+The user file creation mode mask that is used to configure the default permissions for newly created files and directories
+The command “umask” which is used to set the umask value.
 Octal value : Permission
 0 : read, write and execute
 1 : read and write
@@ -114,6 +114,8 @@ The files are protected because, again, no one can delete anyone else’s files.
 ![img](/../master/images/task_5_2_9.png?raw=true "screenshot")
 
 ![img](/../master/images/task_5_2_10.png?raw=true "screenshot").
+
+![img](/../master/images/task_5_2_12.png?raw=true "screenshot").
 
 17. File attribute should be present with command 'lsattr'. 
 
